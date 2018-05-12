@@ -10,7 +10,11 @@ body {
 }
 
 ul {
-    text-align: center;
+    text-align: left;
     list-style-position: inside;
-    
 }
+
+.list {
+    text-align: center;
+}
+
